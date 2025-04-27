@@ -1,0 +1,99 @@
+A desk
+A chair
+Mirror
+A dresser
+Floor
+Wall
+A window
+Curtain
+Drawer
+Carpet
+Shelf
+Closet
+Blanket
+A door
+Handle
+Picture
+Book
+Football
+Doll
+Car
+School bag
+Pencil case
+A sofa
+Armchair
+Dining table
+A flower pot
+A vase
+Computer
+Screen
+Mouse
+Printer
+Headphones
+Clock
+Loudspeakers
+Fan
+Heater
+Candle
+Matches
+High chair
+Kitchen cabinets
+Garbage can
+Marble
+Refrigerator
+Freezer
+Oven
+Toaster oven
+Toaster
+Pan
+Pot
+Bowl
+Spoon
+Knife
+Fork
+A tea spoon
+Recipe
+Bottle
+mug
+Plate
+Jug
+Disposable
+Dinnerware
+Cutlery
+Peeler
+6Dish dryer
+Oil
+Vinegar
+Flour
+Sugar
+Salt
+Spices
+Cans
+Lemon juice
+Blender
+Mixer
+Sink
+Faucet
+A broom
+Pan
+Ladle
+Wiper
+A garbage can
+A rag
+Washing machine
+Drying machine
+Laundry drying facility
+Washing powder
+Box
+Basket
+Socks
+Shirts
+Pants
+Dresses
+Skirts
+Undershirts
+Brush
+Comb
+Toothbrush
+Bath
+Toothpaste
